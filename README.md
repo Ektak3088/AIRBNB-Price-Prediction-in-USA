@@ -1,5 +1,6 @@
 # AIRBNB-Price-Prediction-in-USA
-
+In this project we take data of Airbnb listings in the USA and try to predict the price of stay in that listing.
+The data includes 43167 listings and 29 columns - including log_price, what we are trying to predict.
 Preprocessed the data.
 Performed Exploratory Data Analysis.
 Imputed Missing Data.
